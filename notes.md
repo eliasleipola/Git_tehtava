@@ -20,3 +20,8 @@
 63 touch notes.md
 64 dir
 65 history
+git add .
+67 git commit -m "notes created"
+68 git push
+69 git push Git_tehtava
+70 history
